@@ -77,8 +77,8 @@ App will run at: **[http://localhost:3000](http://localhost:3000)**
 
 ## 🔗 Connect
 
-* 💻 GitHub: [your-username](https://github.com/your-username)
-* 🌐 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/your-linkedin/)
+* 💻 GitHub: [your-username](https://github.com/Muneesh1929)
+* 🌐 LinkedIn: [your-linkedin-profile](https://www.linkedin.com/in/muneesh-sharma-8b75a7185/))
 
 ---
 
