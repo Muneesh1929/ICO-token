@@ -43,7 +43,7 @@ ICO-token-main/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/ICO-token.git
+git clone https://github.com/Muneesh1929/ICO-token.git
 cd ICO-token-main
 ````
 
